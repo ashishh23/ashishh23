@@ -10,4 +10,4 @@ Web Development ✨
 Python Programming ✨
 Trying to learn different technologies and brushing up my programming skills too. 🌱
 
-🔭 I’m currently working on different Machine Learning projects.
+🔭 I’m currently working on different Machine Learning & Web Development projects .
